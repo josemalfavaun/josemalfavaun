@@ -6,7 +6,10 @@
 
 ## Sobre mi
 
-Estudio Data Science en el ITAM, trabajo en AXA en varios proyectos. Me muevo entre agentes de IA, LLMs, Python, matematicas y estadistica.
+Vivo en Ciudad de Mexico. Fuera de la pantalla del editor, normalmente estoy frente a otra pantalla jugando: me encuentras en Steam y en Xbox. Entre partida y partida tambien le muevo a la musica y a lo que se vaya cruzando.
+
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199009965682/)
+[![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://www.xbox.com/play/user/Hotzh3)
 
 ## Stack
 
@@ -21,7 +24,7 @@ Estudio Data Science en el ITAM, trabajo en AXA en varios proyectos. Me muevo en
 
 ## Estadisticas
 
-![Stats](https://github-readme-stats.vercel.app/api?username=josemalfavaun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=josemalfavaun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josemalfavaun&layout=compact&theme=tokyonight&hide_border=true)
 
 ## Proyectos destacados
