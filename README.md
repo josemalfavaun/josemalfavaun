@@ -6,7 +6,7 @@
 
 ## Sobre mi
 
-Estudio Data Science en el ITAM, voy en septimo semestre. Trabajo en AXA, generacion 20 de becarios, en los proyectos `ia-auditor` y la reconstruccion del portal de distribuidores. Estoy construyendo GRIS, un agente personal propio. Me muevo entre agentes de IA, LLMs, Python, matematicas y estadistica.
+Estudio Data Science en el ITAM, trabajo en AXA en varios proyectos. Me muevo entre agentes de IA, LLMs, Python, matematicas y estadistica.
 
 ## Stack
 
